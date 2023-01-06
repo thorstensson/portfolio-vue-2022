@@ -2,7 +2,7 @@
 
 
 This is the code and design for my portfolio at [thomasthorstensson.net](https://thomasthorstensson.net)
-It will be updated regularly.
+It's backdated, v3 + to come.
 
 ## Project setup
 ```
